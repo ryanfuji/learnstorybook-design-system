@@ -13,7 +13,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "sass": "^1.25.0",
     "styled-components": "^5.0.1",
     "typescript": "^3.8.2"
@@ -48,7 +48,7 @@
     "@storybook/addon-storysource": "^5.3.13",
     "@storybook/addons": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
-    "@storybook/react": "^5.3.13",
+    "@storybook/react": "^7.0.9",
     "prettier": "^1.19.1"
   }
 }
